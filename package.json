@@ -1,5 +1,6 @@
 {
-  "name": "redux-toolkit-zero",
+  "name": "redux-toolkit-counter",
+  "homepage": "https://igorsilvaj.github.io/redux-toolkit-counter/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
