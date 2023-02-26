@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/redux-toolkit-counter/static/css/main.ef89dc60.css",
-    "main.js": "/redux-toolkit-counter/static/js/main.c3263453.js",
-    "static/media/react.svg": "/redux-toolkit-counter/static/media/react.6d4dd5dfc6163bdfcfe520bd6bef1a6a.svg",
-    "static/media/redux.svg": "/redux-toolkit-counter/static/media/redux.04851e4f576287d685ab7afb5e4717a9.svg",
-    "index.html": "/redux-toolkit-counter/index.html",
-    "main.ef89dc60.css.map": "/redux-toolkit-counter/static/css/main.ef89dc60.css.map",
-    "main.c3263453.js.map": "/redux-toolkit-counter/static/js/main.c3263453.js.map"
+    "main.css": "/redux-toolkit-first-project/static/css/main.ef89dc60.css",
+    "main.js": "/redux-toolkit-first-project/static/js/main.e08ed3e8.js",
+    "static/media/react.svg": "/redux-toolkit-first-project/static/media/react.6d4dd5dfc6163bdfcfe520bd6bef1a6a.svg",
+    "static/media/redux.svg": "/redux-toolkit-first-project/static/media/redux.04851e4f576287d685ab7afb5e4717a9.svg",
+    "index.html": "/redux-toolkit-first-project/index.html",
+    "main.ef89dc60.css.map": "/redux-toolkit-first-project/static/css/main.ef89dc60.css.map",
+    "main.e08ed3e8.js.map": "/redux-toolkit-first-project/static/js/main.e08ed3e8.js.map"
   },
   "entrypoints": [
     "static/css/main.ef89dc60.css",
-    "static/js/main.c3263453.js"
+    "static/js/main.e08ed3e8.js"
   ]
 }
